@@ -16,7 +16,7 @@ pip install obsn
 ### Importing the Library
 
 ```py
-import obsn as obsidian
+import obsidian
 ```
 
 ### Functions
